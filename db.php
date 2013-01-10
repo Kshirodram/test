@@ -1,5 +1,5 @@
 <?php  
-//Connection string.  
+//Connection string.  test purpose
 $con = mysql_connect("localhost","root","");
     
 if (!$con) {
